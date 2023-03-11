@@ -10,16 +10,6 @@ import {
 const Illustration = () => {
   return (
     <div className="mx-auto grid max-w-[81.1875rem] px-8 pt-[8.4375rem] pb-[7.5rem] md:grid-cols-2">
-      {/* <motion.img
-        src={image}
-        alt="illustration"
-        width={614}
-        height={534}
-        initial="hidden"
-        whileInView="visible"
-        variants={fadeInVariants(`right`, 0.5, 0.8)}
-        viewport={{ once: true, threshold: 0.8 }}
-      ></motion.img> */}
       <MotionComponent
         as="picture"
         variants={fadeInVariants("right", 0.5, 0.8)}

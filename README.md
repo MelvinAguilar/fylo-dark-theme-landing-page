@@ -6,14 +6,14 @@
 
   <h2 align="center">Fylo dark theme landing page solution</h2>
   <p align="center">
-    <a href="https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd"><strong>Frontend Mentor Challenge</strong></a>
+    <a href="https://www.frontendmentor.io/solutions/fylo-dark-theme-landing-page-react-js-tailwind-css-framer-motion-HksqiU84kV"><strong>Frontend Mentor Challenge</strong></a>
     <br />
     <br />
-    <a href="">View Demo</a>
+    <a href="https://fylo-dark-theme-landing-page-hdez.vercel.app/">View Demo</a>
     ·
-    <a href="" target="_blank">Report Bug</a>
+    <a href="https://github.com/MelvinAguilar/fylo-dark-theme-landing-page/issues" target="_blank">Report Bug</a>
     ·
-    <a href="" target="_blank">Request Feature</a>
+    <a href="https://github.com/MelvinAguilar/fylo-dark-theme-landing-page/issues" target="_blank">Request Feature</a>
   </p>
 </div>
 
@@ -25,7 +25,7 @@
   </a>
   <!-- Status -->
     <a href="#">
-    <img src="https://img.shields.io/badge/Status-Pending-E55937?style=for-the-badge" alt="Status">
+    <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge" alt="Status Completed">
   </a>
 
 </div>
@@ -42,8 +42,8 @@ This is a solution to the [Fylo dark theme landing page challenge on Frontend Me
 
 <h2 align="center">Links</h2>
 
-<!-- - Solution URL: [Intro section with dropdown navigation (React + Tailwind + Dark mode) (React + SASS) | Frontend Mentor](https://www.frontendmentor.io/solutions/intro-section-with-dropdown-navigation-tmQXOQU78e)
-- Live Site URL: [https://intro-section-with-dropdown-navigation-hdez.vercel.app/](https://intro-section-with-dropdown-navigation-hdez.vercel.app/)  -->
+- Solution URL: [Fylo dark theme landing page (React JS + Tailwind CSS + Framer Motion) | Frontend Mentor](https://www.frontendmentor.io/solutions/fylo-dark-theme-landing-page-react-js-tailwind-css-framer-motion-HksqiU84kV)
+- Live Site URL: [https://fylo-dark-theme-landing-page-hdez.vercel.app/](https://fylo-dark-theme-landing-page-hdez.vercel.app/)
 
 <br>
 
