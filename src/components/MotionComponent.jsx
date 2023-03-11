@@ -6,7 +6,7 @@ const MotionComponent = ({ as = "div", variants, ...rest }) => {
 
   return (
     <Component
-      variants={true ? "visible" : variants}
+      variants={shouldReduceMotion ? "visible" : variants}
       initial="hidden"
       whileInView="visible"
       viewport={{ once: true, threshold: 0.8 }}

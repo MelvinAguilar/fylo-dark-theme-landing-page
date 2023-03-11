@@ -28,9 +28,15 @@ const Header = () => {
           as="ul"
           variants={staggerContainer}
           className="flex items-center gap-[3.5625rem]"
+          role="list"
         >
           {links.map((link, index) => (
-            <MotionComponent as="li" variants={textVariants} key={index}>
+            <MotionComponent
+              as="li"
+              variants={textVariants}
+              key={index}
+              role="listitem"
+            >
               <a href="#" className="border-bottom relative">
                 {link}
               </a>
